@@ -5,8 +5,8 @@ Maintainer: zachary7829
 Depends: firmware (>11.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.zachary7829.anotherlazyhidedocktweak_0.0.1-3+debug_iphoneos-arm.deb
-Size: 854
-MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+Size: 4204
+MD5sum: be02ee63810f4586c3dc1f94f16f2545
 Description: Just another dock hide tweak (may not work on arm64e)
 Name: AnotherLazyHideDockTweak
 Author: zachary7829
