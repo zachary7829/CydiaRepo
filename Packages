@@ -1,38 +1,64 @@
-Package: com.zachary7829.anotherlazyhidedocktweak
-Version: 0.0.1
+Package: com.zachary7829.bypasszoomdetection
+Version: 1.0.0
 Section: Tweaks
 Maintainer: zachary7829
 Depends: firmware (>11.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.zachary7829.anotherlazyhidedocktweak_0.0.1-3+debug_iphoneos-arm.deb
-Size: 4204
+Filename: ./debs/com.zachary7829.bypasszoomdetection_1.0.0-1+debug_iphoneos-arm.deb
+Size: 5250
 MD5sum: be02ee63810f4586c3dc1f94f16f2545
-Description: Just another dock hide tweak (may not work on arm64e)
-Name: AnotherLazyHideDockTweak
+Description: Bypass Zoom's jailbreak detection
+Name: BypassZoomDetection
 Author: zachary7829
 
-Package: com.zachary7829.anotherlazyhidedocktweak
-Version: 1.0.1
+Package: com.zachary7829.hidemyvpn
+Version: 1.0.0
 Section: Tweaks
 Maintainer: zachary7829
 Depends: firmware (>11.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.zachary7829.anotherlazyhidedocktweak_1.0.1-1+debug_iphoneos-arm.deb
-Size: 5702
-MD5sum: e6a9c97cf3147b63c60ee007e65ea112
-Description: Just another dock hide tweak
-Name: AnotherLazyHideDockTweak
+Filename: ./debs/com.zachary7829.hidemyvpn_1.0.0-1+debug_iphoneos-arm.deb
+Size: 4432
+MD5sum: 3f14dd10ecbd2c6b673ff14eb2387fcc
+Description: Don't show VPN in Status Bar
+Name: HideMyVPN
 Author: zachary7829
 
-Package: com.zachary7829.fuckthedots
-Version: 0.0.1
+Package: com.zachary7829.nopendingrequests
+Version: 1.0.0
 Section: Tweaks
 Maintainer: zachary7829
-Depends: firmware (>13.0), mobilesubstrate
+Depends: firmware (>8.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.zachary7829.fuckthedots_0.0.1-1+debug_iphoneos-arm.deb
-Size: 4352
-MD5sum: 98f7096811b63e80e53546e989a88d7d
-Description: Remove page dots
-Name: FuckTheDots
+Filename: ./debs/com.zachary7829.nopendingrequests_1.0.0-1+debug_iphoneos-arm.deb
+Size: 4444
+MD5sum: 77b9d43c5ebed21f69dcc66b8ad2152f
+Description: Hide pending DM requests on insta
+Name: NoPendingRequests
+Author: zachary7829
+
+Package: com.zachary7829.nopromotedtweets
+Version: 1.0.0
+Section: Tweaks
+Maintainer: zachary7829
+Depends: firmware (>8.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.zachary7829.nopromotedtweets_1.0.0-1+debug_iphoneos-arm.deb
+Size: 4694
+MD5sum: 61a751ad74ae3efb271e55c18760f9a2
+Description: Make Promoted Tweets fuck off
+Name: NoPromotedTweets
+Author: zachary7829
+
+Package: com.zachary7829.noytads
+Version: 1.0.0
+Section: Tweaks
+Maintainer: zachary7829
+Depends: firmware (>8.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.zachary7829.noytads_1.0.0-1+debug_iphoneos-arm.deb
+Size: 4738
+MD5sum: 26fe32d597ddac75ae1d4183892b0361
+Description: No Ads in YouTube
+Name: NoYTAds
 Author: zachary7829
