@@ -2,7 +2,7 @@ Package: com.zachary7829.bypasszoomdetection
 Version: 1.0.0
 Section: Tweaks
 Maintainer: zachary7829
-Depends: firmware (>11.0), mobilesubstrate
+Depends: firmware (>= 11.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.zachary7829.bypasszoomdetection_1.0.0-1+debug_iphoneos-arm.deb
 Size: 5250
@@ -15,7 +15,7 @@ Package: com.zachary7829.hidemyvpn
 Version: 1.0.0
 Section: Tweaks
 Maintainer: zachary7829
-Depends: firmware (>11.0), mobilesubstrate
+Depends: firmware (>= 11.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.zachary7829.hidemyvpn_1.0.0-1+debug_iphoneos-arm.deb
 Size: 4432
@@ -28,7 +28,7 @@ Package: com.zachary7829.nopendingrequests
 Version: 1.0.0
 Section: Tweaks
 Maintainer: zachary7829
-Depends: firmware (>8.0), mobilesubstrate
+Depends: firmware (>= 8.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.zachary7829.nopendingrequests_1.0.0-1+debug_iphoneos-arm.deb
 Size: 4444
@@ -41,7 +41,7 @@ Package: com.zachary7829.nopromotedtweets
 Version: 1.0.0
 Section: Tweaks
 Maintainer: zachary7829
-Depends: firmware (>8.0), mobilesubstrate
+Depends: firmware (>= 8.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.zachary7829.nopromotedtweets_1.0.0-1+debug_iphoneos-arm.deb
 Size: 4694
@@ -54,11 +54,24 @@ Package: com.zachary7829.noytads
 Version: 1.0.0
 Section: Tweaks
 Maintainer: zachary7829
-Depends: firmware (>8.0), mobilesubstrate
+Depends: firmware (>= 8.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.zachary7829.noytads_1.0.0-1+debug_iphoneos-arm.deb
 Size: 4738
 MD5sum: 26fe32d597ddac75ae1d4183892b0361
 Description: No Ads in YouTube
 Name: NoYTAds
+Author: zachary7829
+
+Package: com.zachary7829.pastcuts
+Version: 1.0.0
+Section: Tweaks
+Maintainer: zachary7829
+Depends: firmware (>= 13.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.zachary7829.pastcuts_1.0.0-1+debug_iphoneos-arm.deb
+Size: 3934
+MD5sum: d1ed668f2e931594fcb558f486f662a4
+Description: Import iOS 15 shortcuts on iOS 13
+Name: Pastcuts
 Author: zachary7829
