@@ -6,3 +6,12 @@ Codename: ios
 Architectures: iphoneos-arm
 Components: main
 Description: Repository for my tweaks
+MD5sum:
+ 75b16503cd638375161668a407b025e3 4020 Packages
+ e3256823c46bddbb64dab77245ecb701 1447 Packages.bz2
+SHA1:
+ c7d0b3ad4156659c65744598423e8be0637d41f8 4020 Packages
+ 7e219dc7ac7a1aaf1178d15d8f30858b1b6c4ebc 1447 Packages.bz2
+SHA256:
+ f7d1314ad55aa68fd1b0e5023f9c35994d0ed7d13f2aece1437148ed0983f726 4020 Packages
+ bdf59a26f67b7511afab581add69c94a67ab93d50587f35dead3667547d8dbb1 1447 Packages.bz2

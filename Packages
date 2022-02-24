@@ -7,6 +7,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.zachary7829.bypasszoomdetection_1.0.0-1+debug_iphoneos-arm.deb
 Size: 5250
 MD5sum: be02ee63810f4586c3dc1f94f16f2545
+SHA1: cabe7bd37b36e6766f506740c983f9d5031cdbc0
+SHA256: 55413639d16201f8bc631ec7c64b90edcbadd53c9a234625e60eeb87e80fc677
 Description: Bypass Zoom's jailbreak detection
 Name: BypassZoomDetection
 Author: zachary7829
@@ -20,6 +22,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.zachary7829.hidemyvpn_1.0.0-1+debug_iphoneos-arm.deb
 Size: 4432
 MD5sum: 3f14dd10ecbd2c6b673ff14eb2387fcc
+SHA1: 3c51fc7e354dcc091c8db748b818cb5445edc528
+SHA256: b054f2e49a4fc38192c4f8a5e332b98c1e86e739e4ff57865d039a4a08d4fa11
 Description: Don't show VPN in Status Bar
 Name: HideMyVPN
 Author: zachary7829
@@ -33,6 +37,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.zachary7829.nopendingrequests_1.0.0-1+debug_iphoneos-arm.deb
 Size: 4444
 MD5sum: 77b9d43c5ebed21f69dcc66b8ad2152f
+SHA1: 8fff8371247af6d6eee350557a1606a56d9cbe57
+SHA256: b054f2e49a4fc38192c4f8a5e332b98c1e86e739e4ff57865d039a4a08d4fa11
 Description: Hide pending DM requests on insta
 Name: NoPendingRequests
 Author: zachary7829
@@ -46,6 +52,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.zachary7829.nopromotedtweets_1.0.0-1+debug_iphoneos-arm.deb
 Size: 4694
 MD5sum: 61a751ad74ae3efb271e55c18760f9a2
+SHA1: 284ec799aba65086b4dacc8e092ebeb79e31376c
+SHA256: a22e866a5f657b93940301929d43f58664abac9109e43a66e3125ab535b7a8ef
 Description: Make Promoted Tweets fuck off
 Name: NoPromotedTweets
 Author: zachary7829
@@ -59,8 +67,25 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.zachary7829.noytads_1.0.0-1+debug_iphoneos-arm.deb
 Size: 4738
 MD5sum: 26fe32d597ddac75ae1d4183892b0361
+SHA1: cb14dac2cdb7ff1f90a961143ac872aef4cd19bb
+SHA256: 1749a2b1aa7aef6b5a5358a2b430490e87e1deaa44c2450af2d8135cf1e4bb87
 Description: No Ads in YouTube
 Name: NoYTAds
+Author: zachary7829
+
+Package: com.zachary7829.pastcuts
+Version: 1.1.1
+Section: Tweaks
+Maintainer: zachary7829
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.common
+Architecture: iphoneos-arm
+Filename: ./debs/com.zachary7829.pastcuts_1.1.1_iphoneos-arm.deb
+Size: 7586
+MD5sum: a7f69f9b2228011b63fe8b80d79fba3c
+SHA1: 55c20ea3c185d165204ea822d435280eefa61c4d
+SHA256: 9d8f13ad25a725eedf2a458fd27a2258c3110f4fb7d2dc164b9a85ea476c2155
+Description: Import iOS 15 shortcuts on iOS 13
+Name: Pastcuts
 Author: zachary7829
 
 Package: com.zachary7829.pastcuts
@@ -72,6 +97,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.zachary7829.pastcuts_1.1.0_iphoneos-arm.deb
 Size: 7316
 MD5sum: 9feb9afd96de9f5a4aeb6e197516527e
+SHA1: ecfddc967cf4afadc04806b45a17296fd11d6cf5
+SHA256: a58c745d670d5f5442a4669f7f92f7bbedaf65d997ce5813bd43896e1bf6664c
 Description: Import iOS 15 shortcuts on iOS 13
 Name: Pastcuts
 Author: zachary7829
@@ -85,6 +112,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.zachary7829.pastcuts_1.0.0-1+debug_iphoneos-arm.deb
 Size: 3934
 MD5sum: d1ed668f2e931594fcb558f486f662a4
+SHA1: b88469d645ba3097a5cb4dd1d5b1e376d9f53d0e
+SHA256: 4d90c316000f191e8897e8790a6678ba3b9e87f14372dc37381dfeb4e7e5de79
 Description: Import iOS 15 shortcuts on iOS 13
 Name: Pastcuts
 Author: zachary7829
