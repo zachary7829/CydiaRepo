@@ -117,3 +117,18 @@ SHA256: 4d90c316000f191e8897e8790a6678ba3b9e87f14372dc37381dfeb4e7e5de79
 Description: Import iOS 15 shortcuts on iOS 13
 Name: Pastcuts
 Author: zachary7829
+
+Package: com.zachary7829.returngetvariable
+Version: 1.0.0
+Section: Tweaks
+Maintainer: zachary7829
+Depends: firmware (>= 13.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.zachary7829.returngetvariable_1.0.0_iphoneos-arm.deb
+Size: 2934
+MD5sum: e36a9fb48057be5346887bed9eb60ec4
+SHA1: 0e33c3a1473b1a40733f4258fddc6ee663ae7895
+SHA256: aed24332b60be9f92bad3e5e458244f15edd302902d3511dea9a46171a9018c7
+Description: Unhide the Get Variable action on iOS 13.0-14.4.2
+Name: ReturnGetVariable
+Author: zachary7829

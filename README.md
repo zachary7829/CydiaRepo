@@ -7,6 +7,18 @@ My cydia repo for my tweaks
 
 Import iOS 15 shortcuts on iOS 14 and iOS 13
 
+#### Changelog:
+
+**Pastcuts 1.1.1:** should clean up some things and fix minor bugs, as well as now logs installs for stats
+
+**Pastcuts 1.1.0:** Added version spoofing, can be turned off if you want
+
+**Pastcuts 1.0.0:** First version.
+
+### ReturnGetVariable
+
+Unhide the Get Variable action on iOS 13.0-14.4.2
+
 ### NoYTAds
 
 No ads in YouTube
