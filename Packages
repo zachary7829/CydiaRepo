@@ -119,6 +119,21 @@ Name: Pastcuts
 Author: zachary7829
 
 Package: com.zachary7829.returngetvariable
+Version: 1.0.1
+Section: Tweaks
+Maintainer: zachary7829
+Depends: firmware (>= 13.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.zachary7829.returngetvariable_1.0.1_iphoneos-arm.deb
+Size: 3370
+MD5sum: 085839e2f0c04829d9a22bfd2c022dc7
+SHA1: 61e69f2cd51f8dc0b280cc0290411640f734b674
+SHA256: 3018efa6db4e4516789a6e584fa1afade73ab53ae1c12f3e94e74c320f96b008
+Description: Unhide the Get Variable action on iOS 13.0-14.4.2
+Name: ReturnGetVariable
+Author: zachary7829
+
+Package: com.zachary7829.returngetvariable
 Version: 1.0.0
 Section: Tweaks
 Maintainer: zachary7829

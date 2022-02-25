@@ -15,9 +15,19 @@ Import iOS 15 shortcuts on iOS 14 and iOS 13
 
 **Pastcuts 1.0.0:** First version.
 
+### Springlicious
+
+Coming soon!
+
 ### ReturnGetVariable
 
 Unhide the Get Variable action on iOS 13.0-14.4.2
+
+#### Changelog:
+
+**ReturnGetVariable 1.0.1:** Now logs for installs.
+
+**ReturnGetVariable 1.0.0:** First version.
 
 ### NoYTAds
 
