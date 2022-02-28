@@ -147,3 +147,18 @@ SHA256: aed24332b60be9f92bad3e5e458244f15edd302902d3511dea9a46171a9018c7
 Description: Unhide the Get Variable action on iOS 13.0-14.4.2
 Name: ReturnGetVariable
 Author: zachary7829
+
+Package: com.zachary7829.stopshortcutsuntitledprompt
+Version: 1.0.0
+Section: Tweaks
+Maintainer: zachary7829
+Depends: firmware (>= 13.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.zachary7829.stopshortcutsuntitledprompt_1.0.0_iphoneos-arm.deb
+Size: 3502
+MD5sum: 6e0c4e43daa0f520db84f715f80065dd
+SHA1: ab2ef1a8283fe36f4409f4dc77efe1059dd0cb86
+SHA256: e59304a8b9a90f5fb0511922dd66cd996108e884556fc4c067edff53d3cc8f3a
+Description: Stop being forced to name shortcuts
+Name: StopShortcutsUntitledPrompt
+Author: zachary7829

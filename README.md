@@ -29,6 +29,10 @@ Unhide the Get Variable action on iOS 13.0-14.4.2
 
 **ReturnGetVariable 1.0.0:** First version.
 
+### StopShortcutsUntitledPrompt
+
+Stop being forced to name shortcuts
+
 ### NoYTAds
 
 No ads in YouTube
