@@ -162,3 +162,18 @@ SHA256: e59304a8b9a90f5fb0511922dd66cd996108e884556fc4c067edff53d3cc8f3a
 Description: Stop being forced to name shortcuts
 Name: StopShortcutsUntitledPrompt
 Author: zachary7829
+
+Package: com.zachary7829.springlicious
+Version: 1.0.0
+Section: Tweaks
+Maintainer: zachary7829
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.common
+Architecture: iphoneos-arm
+Filename: ./debs/com.zachary7829.springlicious_1.0.0_iphoneos-arm.deb
+Size: 14844
+MD5sum: 84f25253a604e9d9a40ac296e739b6f5
+SHA1: 605247754e9b8ec278eba58920a1907eb73d0b0c
+SHA256: 1761b584bef317610150299310388743d5378b89af5b0da4292c61443ec1490d
+Description: FOSS SpringBoard Customization Tweak
+Name: Springlicious
+Author: zachary7829

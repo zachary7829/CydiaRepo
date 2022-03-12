@@ -17,7 +17,9 @@ Import iOS 15 shortcuts on iOS 14 and iOS 13
 
 ### Springlicious
 
-Coming soon!
+FOSS SpringBoard Customization Tweak
+
+**Springlicious 1.0.0:** First version.
 
 ### ReturnGetVariable
 
