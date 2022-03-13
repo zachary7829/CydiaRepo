@@ -164,6 +164,21 @@ Name: StopShortcutsUntitledPrompt
 Author: zachary7829
 
 Package: com.zachary7829.springlicious
+Version: 1.0.1
+Section: Tweaks
+Maintainer: zachary7829
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: ./debs/com.zachary7829.springlicious_1.0.1_iphoneos-arm.deb
+Size: 12576
+MD5sum: ba0595a471dae806c6eced26fa20bbdd
+SHA1: 26e709416efbd13558a8294c90b75a55c165cacf
+SHA256: 659c28a3d96485a0a6a03b479d74b82b1528a88db5518dbab55a5f787bb9481e
+Description: FOSS SpringBoard Customization Tweak
+Name: Springlicious
+Author: zachary7829
+
+Package: com.zachary7829.springlicious
 Version: 1.0.0
 Section: Tweaks
 Maintainer: zachary7829
