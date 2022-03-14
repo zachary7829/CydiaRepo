@@ -19,6 +19,8 @@ Import iOS 15 shortcuts on iOS 14 and iOS 13
 
 FOSS SpringBoard Customization Tweak
 
+#### Changelog:
+
 **Springlicious 1.0.1:** Improvements to preferences and color management (thanks ryannair05!). Cephei should no longer be a dependency.
 
 **Springlicious 1.0.0:** First version.
