@@ -33,5 +33,3 @@ echo Packages.zst SHA256: $(shasum -a 256 ./Packages.zst | sed "s/\  .\/Packages
 PackagesZSTSHA256=$(shasum -a 256 ./Packages.zst | sed "s/\  .\/Packages.zst//g")
 PackagesZSTFileSize=$(wc -c "./Packages.zst" | awk '{print $1}')
 echo "Origin: zachary7829\nLabel: zachary7829\nSuite: stable\nVersion: 1.0\nCodename: ios\nArchitectures: iphoneos-arm\nComponents: main\nDescription: Repository for my tweaks\nMD5Sum:\n $PackagesMD5Sum $PackagesFileSize Packages\n $PackagesBZ2MD5Sum $PackagesBZ2FileSize Packages.bz2\n $PackagesXZMD5Sum $PackagesXZFileSize Packages.xz\n $PackagesZSTMD5Sum $PackagesZSTFileSize Packages.zst\nSHA1:\n $PackagesSHA1 $PackagesFileSize Packages\n $PackagesBZ2SHA1 $PackagesBZ2FileSize Packages.bz2\n $PackagesXZMD5Sum $PackagesXZFileSize Packages.xz\n $PackagesZSTSHA1 $PackagesZSTFileSize Packages.zst\nSHA256:\n $PackagesSHA256 $PackagesFileSize Packages\n $PackagesBZ2SHA256 $PackagesBZ2FileSize Packages.bz2\n $PackagesXZSHA256 $PackagesXZFileSize Packages.xz\n $PackagesZSTSHA256 $PackagesZSTFileSize Packages.zst" >> ./Release
-gpg -abs -u 7071CFC72F0113CF3204DA6178E321D613081CF4 -o Release.gpg Release
-
