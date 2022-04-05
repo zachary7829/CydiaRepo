@@ -74,6 +74,23 @@ Name: NoYTAds
 Author: zachary7829
 
 Package: com.zachary7829.pastcuts
+Version: 1.2.1
+Section: Tweaks
+Maintainer: zachary7829
+Icon: https://zachary7829.github.io/CydiaRepo/assets/PastcutsIcon.png
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.common
+Conflicts: firmware (>= 15.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.zachary7829.pastcuts_1.2.1_iphoneos-arm.deb
+Size: 15986
+MD5sum: f34537274494e615e7ac32a4f8b03adc
+SHA1: 7b5b12ae5bef69860c2364ffb495b79c9970feae
+SHA256: a42e208ebdba071b6edce5f3d6c4af69c7127f2a0d389c5f9b10a4e25a3c8d3c
+Description: Import iOS 15 shortcuts on iOS 13
+Name: Pastcuts
+Author: zachary7829
+
+Package: com.zachary7829.pastcuts
 Version: 1.2.0
 Section: Tweaks
 Maintainer: zachary7829
