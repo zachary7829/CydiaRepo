@@ -11,6 +11,8 @@ Import iOS 15 shortcuts on iOS 14 and iOS 13
 
 ### Changelog:
 
+**Pastcuts 1.2.2:** Changed the old and bad icon I did in 1.2.1 to a much better icon by someone else. Also, default version for version spoofing is now 15.4.1 instead of 15.4.
+
 **Pastcuts 1.2.1:** Added an icon for Pastcuts.
 
 **Pastcuts 1.2.0:** Pastcuts now changes some iOS 15 actions to their iOS 13/14 equivalents! This should support Return to Homescreen, Select File, Stop and Output, and the iOS 15 version of Get File. This also allows you to specify what you want to spoof as the version. Pastcuts is also open source now!
