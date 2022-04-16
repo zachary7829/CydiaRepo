@@ -1,6 +1,8 @@
 # zachary7829's Tweak Repository
 My repository for my tweaks
 
+**Patreon:** [https://patreon.com/zachary7829](https://patreon.com/zachary7829)
+
 # Tweaks:
 
 ## Pastcuts
@@ -38,6 +40,10 @@ FOSS SpringBoard Customization Tweak
 **Springlicious 1.0.1:** Improvements to preferences and color management (thanks ryannair05!). Cephei should no longer be a dependency.
 
 **Springlicious 1.0.0:** First version.
+
+## Importcuts
+
+Import .shortcut files, even when unjailbroken
 
 ## ReturnGetVariable
 
