@@ -7,40 +7,17 @@ Architectures: iphoneos-arm
 Components: main
 Description: Repository for my tweaks
 MD5Sum:
- fc7648be9ea575ee9e6f5b06e3a6c0dd 10388 Packages
+ 399f480383801fc88ddc59976395b596 10845 Packages
  7cc801f349f3f3650e5166c3ee2d9554 2858 Packages.bz2
  16978940af598a64d3106655491b252b 2576 Packages.xz
- 1102bd19e31483a02dcf03b5c8b1c290 2517 Packages.zst
+ 51a164cf52d17e241c2d98dd5c388231 2667 Packages.zst
 SHA1:
- 841e6eff075fbafd04e4afbb43bd8dbf27d70f65 10388 Packages
+ f85f76e54247d9fcb1cd66137ba3c0b068364849 10845 Packages
  c8b6e13c8cb47b98998d517cf7ea1e4fa7fb1808 2858 Packages.bz2
  5cd7e2046ccdaf2540b7b673b36ffa27e939e77c 2576 Packages.xz
- d0c9d762daa2efac24a5e770c19dca9950524b44 2517 Packages.zst
+ d9a538a923d0fa084f6653c848d2d0634c4d3824 2667 Packages.zst
 SHA256:
- 14e8716f75dfedf8218efc176f004056ee0a2bba402b6f301b8e6769a6bebae2 10388 Packages
+ b49541ff6604a0c73efca10180128da8377bd5571cc786a497d13e3b313c5adf 10845 Packages
  055d8de314fa66c41251d17c64e386fb8c4d7d271047a0564234c30bc696bfea 2858 Packages.bz2
  55780dfe37ea8bc21ea7e298b75d9520ac075c82adc18f07773591dfa478fc65 2576 Packages.xz
- 10236ca1c09f767ca9c68c95d240ecedac605c232046633b9e4a55d8cb4bbcb2 2517 Packages.zst
-Origin: zachary7829
-Label: zachary7829
-Suite: stable
-Version: 1.0
-Codename: ios
-Architectures: iphoneos-arm
-Components: main
-Description: Repository for my tweaks
-MD5Sum:
- fc7648be9ea575ee9e6f5b06e3a6c0dd 10388 Packages
- 7cc801f349f3f3650e5166c3ee2d9554 2858 Packages.bz2
- 16978940af598a64d3106655491b252b 2576 Packages.xz
- 1102bd19e31483a02dcf03b5c8b1c290 2517 Packages.zst
-SHA1:
- 841e6eff075fbafd04e4afbb43bd8dbf27d70f65 10388 Packages
- c8b6e13c8cb47b98998d517cf7ea1e4fa7fb1808 2858 Packages.bz2
- 5cd7e2046ccdaf2540b7b673b36ffa27e939e77c 2576 Packages.xz
- d0c9d762daa2efac24a5e770c19dca9950524b44 2517 Packages.zst
-SHA256:
- 14e8716f75dfedf8218efc176f004056ee0a2bba402b6f301b8e6769a6bebae2 10388 Packages
- 055d8de314fa66c41251d17c64e386fb8c4d7d271047a0564234c30bc696bfea 2858 Packages.bz2
- 55780dfe37ea8bc21ea7e298b75d9520ac075c82adc18f07773591dfa478fc65 2576 Packages.xz
- 10236ca1c09f767ca9c68c95d240ecedac605c232046633b9e4a55d8cb4bbcb2 2517 Packages.zst
+ f091c71ce7664ee644989a9df527dd1d515bbe310e056ef7affcd788853c9492 2667 Packages.zst

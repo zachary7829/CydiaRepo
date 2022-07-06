@@ -293,3 +293,18 @@ SHA256: 9ae5c898c45034086bcec0baffe0b11467a98b6ce7ecaaa29e45521cf57bf087
 Description: Import .shortcut files, even when unjailbroken
 Name: Importcuts
 Author: zachary7829
+
+Package: com.zachary7829.buttermilk
+Version: 0.0.3~2
+Section: Tweaks
+Maintainer: zachary7829
+Depends: firmware (>= 6.0)
+Architecture: iphoneos-arm
+Filename: ./debs/buttermilk-0.0.3~2.deb
+Size: 14520
+MD5sum: 12db8eb3def33f7f9dc2fdd951c9685b
+SHA1: 6a94f08c1e996047ce5ee3b2ee4d0b20a697637e
+SHA256: 36dc18db423f779d1d42b1e203a156465524aaf231552c754e6204866c425b79
+Description: Poorly written butter2short/short2butter tool
+Name: Buttermilk
+Author: zachary7829
