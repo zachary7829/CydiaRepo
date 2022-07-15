@@ -27,6 +27,10 @@ Import iOS 15 shortcuts on iOS 14 and iOS 13
 
 **Pastcuts 1.0.0:** First version.
 
+## Pastcuts12
+
+Import iOS 16/15/14/13 shortcuts on iOS 12 and Workflow
+
 ## Springlicious
 
 FOSS SpringBoard Customization Tweak
