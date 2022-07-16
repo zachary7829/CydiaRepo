@@ -309,7 +309,7 @@ Description: Poorly written butter2short/short2butter tool
 Name: Buttermilk
 Author: zachary7829
 
-Package: com.0xilis.pastcuts12
+Package: com.0xilis.pastcuts12cli
 Version: 1.0.0
 Section: Tweaks
 Maintainer: zachary7829
