@@ -309,7 +309,7 @@ Description: Poorly written butter2short/short2butter tool
 Name: Buttermilk
 Author: zachary7829
 
-Package: com.0xilis.pastcuts12cli
+Package: com.0xilis.pastcuts12
 Version: 1.0.0
 Section: Tweaks
 Maintainer: zachary7829
@@ -317,11 +317,11 @@ Icon: https://zachary7829.github.io/CydiaRepo/assets/PastcutsIcon.png
 Depends: firmware (>= 8.0)
 Conflicts: firmware (>= 13.0)
 Architecture: iphoneos-arm
-Filename: ./debs/Pastcuts12-CLI_1.0~1.deb
-Size: 68056
-MD5sum: ef0adc3cdc8368ff795b821a62588980
-SHA1: c0fe8599711bc3be5db541d89c5f166ae9920a5b
-SHA256: e8e630e4da575db1812a62fada8f9b811883f51e50d15445780e357f7b41cfa9
+Filename: ./debs/com.0xilis.pastcuts12_1.0.0_iphoneos-arm.deb
+Size: 36518
+MD5sum: c5ebdf02ae402fbc1de4f32f8ceea586
+SHA1: 866200dc99c881f468ebe946053015ebef5ad17e
+SHA256: 79a3265561fd3eaae7189c0dc22856d7298ca51c8ced1fe6300e14e87a750eae
 Description: Import iOS 16/15/14/13 shortcuts on iOS 12
 Name: Pastcuts12
 Author: zachary7829
