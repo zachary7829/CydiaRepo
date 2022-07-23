@@ -1,6 +1,8 @@
 # zachary7829's Tweak Repository
 My repository for my tweaks
 
+MOVED TO https://0xilis.github.io/repo/
+
 **Patreon:** [https://patreon.com/zachary7829](https://patreon.com/zachary7829)
 
 # Tweaks:
